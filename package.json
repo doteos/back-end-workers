@@ -14,7 +14,7 @@
   "devDependencies": {
     "prettier": "^2.0.4",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "install": "^0.13.0",
